@@ -12,12 +12,18 @@ blurb:
     Hope you'll find some interesting reads...
 intro:
   heading: Why?
-  text: >-
-    Why should you even consider reading this rather personal blog?
-    >-
+  <!-- text: >- -->
+  body:
+    - format: "basic_html"
+      value: |
+        <p>Why should you even consider reading this rather personal blog?</p>
+        <p>Your wondering if I'm that missing webdeveloper your looking for.</p>
+        <p>Sometimes it's fun to see what tech other developers like.</p>
+        <p>I've asked you to read it in exchange for a bribe.</p>
+  <!--   Why should you even consider reading this rather personal blog?
     Your wondering if I'm that missing webdeveloper your looking for.
     Sometimes it's fun to see what tech other developers like.
-    I've asked you to read it in exchange for a bribe.  
+    I've asked you to read it in exchange for a bribe.   -->
 products:
   - image: /img/css3-sm-rc.svg
     text: >-
