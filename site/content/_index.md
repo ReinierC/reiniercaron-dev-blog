@@ -14,11 +14,11 @@ intro:
   heading: Why?
   text: >-
     Why should you even consider reading this rather personal blog?
-  li: >-
+  li:
     Your wondering if I'm that missing webdeveloper your looking for.
-  li: >-
+  li:
     Sometimes it's fun to see what tech other developers like.
-  li: >-
+  li:
     I've asked you to read it in exchange for a bribe.  
 products:
   - image: /img/css3-sm-rc.svg
