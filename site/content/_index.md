@@ -1,7 +1,7 @@
 ---
 title: Reinier Caron
 subtitle: Webdeveloper in development.
-image: /img/Hunebed-header-red1.jpg
+image: /img/Hunebed-header-blue1.jpg
 blurb:
   heading: Development blog
   text: >-

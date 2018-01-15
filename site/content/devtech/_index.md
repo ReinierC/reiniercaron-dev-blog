@@ -1,7 +1,7 @@
 ---
 title: Dev Tech
 type: devtech
-image: /img/Hunebed-header-blue1.jpg
+image: /img/Hunebed-header-purple1.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
