@@ -46,9 +46,7 @@ intro:
 values:
   heading: CodeGorilla.nl
   text: >-
-    Due to social and digital developments, the demand for ICT professionals greatly outnumbers the current supply. Future growth in demand is likely. Many companies find themselves struggling to fill open ICT vacancies, even failing to find suitable professionals at all. Shortage of ICT staff often impacts business performance and innovation directly. There's fierce competition between companies looking to hire new talent.
-
-    CodeGorilla has a mission: retraining people that show potential to become ICT professionals  
+    CodeGorilla has a mission: find potential, enable growth and coach people to become skilled ICT professionals  
 
 ---
 
