@@ -1,6 +1,6 @@
 ---
 title: Contact
-image: /img/Hunebed-header-purple1.jpg
+image: /img/Hunebed-header-brown1.jpg
 contact_entries:
   - heading: Portfolio
     text: www.reiniercaron.nl
