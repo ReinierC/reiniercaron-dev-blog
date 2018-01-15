@@ -14,12 +14,20 @@ intro:
   heading: Why?
   text: >-
     Why should you even consider reading this rather personal blog?
-listing:
-  text: >-
+
+
+
+
     Your wondering if I'm that missing webdeveloper your looking for.
-listing:
+
+
+
+
     Sometimes it's fun to see what tech other developers like.
-listing:
+
+
+
+
     I've asked you to read it in exchange for a bribe.  
 products:
   - image: /img/css3-sm-rc.svg
