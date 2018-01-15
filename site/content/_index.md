@@ -29,7 +29,7 @@ intro:
 
 
     I've asked you to read it in exchange for a bribe.  
-products:
+<!-- products:
   - image: /img/css3-sm-rc.svg
     text: >-
       2017 has been a good year for front-end development. The official arrival
@@ -42,7 +42,7 @@ products:
       make me choose."  
 
 
-      What I thought was: "HTML5 or Markdown-language, don't make me choose."
+      What I thought was: "HTML5 or Markdown-language, don't make me choose." -->
 values:
   heading: CodeGorilla.nl
   text: >-
