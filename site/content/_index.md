@@ -1,20 +1,43 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Reinier Caron
+subtitle: Webdeveloper in development.
+image: /img/Hunebed-header-red1.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Development blog
+  text: >-
+    Hi,
+
+    I'm Reinier and I have a graving for webdevelopment. To shed a light on my
+    path towards greater development knowledge I've created this blog.
+    Hope you'll find some interesting reads...
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Why?
+  text: >-
+    Why should you even consider reading this rather personal blog?
+    >-
+    Your wondering if I'm that missing webdeveloper your looking for.
+    Sometimes it's fun to see what tech other developers like.
+    I've asked you to read it in exchange for a bribe.  
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/css3-sm-rc.svg
+    text: >-
+      2017 has been a good year for front-end development. The official arrival
+      of CSS Grid sure was a great experience for me. It changed my  dependency
+      on bloated frameworks for quickly developing one pagers and the likes.  
+  - image: /img/html5-sm-rc.svg
+    text: >-
+      Some funny dude told me:
+      "The ozone layer or chees in a spraycan, don't
+      make me choose."  
+
+
+      What I thought was: "HTML5 or Markdown-language, don't make me choose."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: CodeGorilla.nl
+  text: >-
+    Due to social and digital developments, the demand for ICT professionals greatly outnumbers the current supply. Future growth in demand is likely. Many companies find themselves struggling to fill open ICT vacancies, even failing to find suitable professionals at all. Shortage of ICT staff often impacts business performance and innovation directly. There's fierce competition between companies looking to hire new talent.
+
+    CodeGorilla has a mission: retraining people that show potential to become ICT professionals  
+
 ---
 

@@ -1,6 +1,7 @@
 .bg-center { 
   background-repeat: no-repeat;
   background-position: center center;
+
 }
 
 .bg-top {
@@ -102,4 +103,13 @@
     background-repeat: no-repeat;
     background-position: center left;
   }
+}
+
+/*CSS added by myself*/
+.bg-contain {
+    background-repeat:no-repeat;
+    background-size:contain;
+}
+.bg-repeat {
+    background-repeat: repeat;
 }
