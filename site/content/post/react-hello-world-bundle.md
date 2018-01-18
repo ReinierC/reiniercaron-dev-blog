@@ -1,6 +1,6 @@
 ---
 title: React Hello World bundle
-date: 2018-01-18T21:48:53.902Z
+date: 2018-01-17T01:06:00+01:00
 description: |-
   I've created my first bundle.
   React, Babel and Webpack
@@ -13,6 +13,6 @@ Pretty cool as well.
 
 * I've experienced the pain of getting the right versions of various tools to work together.
 
-* Experienced the importance of checking _date-of-publication_ (again).
+* Learned about the importance of checking _date-of-publication_ (again).
 
 * Had another encounter with my new buddy "Markdown", check the howto **and** repo on [Github](https://github.com/ReinierC/hello-world-react)
