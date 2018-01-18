@@ -2,8 +2,8 @@
 title: 'SSD too small, switched os to large partition'
 date: 2018-01-18T22:09:55.349Z
 description: >-
-  Android-Studio is huge, my ssd tiny. It was time to bite the bullet and
-  Migrate to a bigger HDD on my Workstation.
+  Android-Studio is huge, my ssd tiny. It was time to bite the bullet & migrate
+  my personal development workspace to a bigger HDD.
 image: /img/pcvsmacvslinux1ib.gif
 ---
 1. Linux
